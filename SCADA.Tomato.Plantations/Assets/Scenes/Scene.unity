@@ -3731,7 +3731,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b98c2a8fb66d1504ca8307a9b7c88614, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initValue: 23
+  initValue: 25
   Value: {fileID: 681270895}
   slider: {fileID: 362190243}
   coefficientInputField: {fileID: 1749980784}
@@ -29507,7 +29507,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b98c2a8fb66d1504ca8307a9b7c88614, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initValue: 24.5
+  initValue: 25
   Value: {fileID: 214334326}
   slider: {fileID: 1227546769}
   coefficientInputField: {fileID: 296098072}

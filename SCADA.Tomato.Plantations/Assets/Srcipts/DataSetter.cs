@@ -25,7 +25,7 @@ public class DataSetter : MonoBehaviour
     {
         var file = @"C:\Users\marta\Desktop\data.txt";
 
-        if (Directory.Exists(file))
+        if (!Directory.Exists(file))
         {
             File.Create(file);
         }

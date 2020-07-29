@@ -30,7 +30,7 @@ namespace Assers.Scripts
 
         void Update()
         {
-            Value.text = $"{provider.Temperature.ToString("00.00")}%";
+            Value.text = $"{provider.Temperature.ToString("00.00")}°C";
             slider.value = (float)provider.Temperature;
         }
 

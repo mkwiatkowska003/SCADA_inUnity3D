@@ -69,15 +69,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11382}
     - Class: 114
-      Script: {instanceID: 11564}
+      Script: {instanceID: 11512}
     - Class: 114
-      Script: {instanceID: 11806}
+      Script: {instanceID: 11566}
     - Class: 114
-      Script: {instanceID: 11846}
+      Script: {instanceID: 11808}
     - Class: 114
-      Script: {instanceID: 11850}
+      Script: {instanceID: 11848}
     - Class: 114
-      Script: {instanceID: 7353650}
+      Script: {instanceID: 11852}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -653,6 +653,12 @@ ScriptsOnlyBuild:
     className: ObservableDragTrigger
   - hash:
       serializedVersion: 2
+      Hash: 85672a5a4fd35da8c263a10a94641359
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraController
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UniRx.Examples.dll
     namespaceName: UniRx.Examples
@@ -819,13 +825,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 85672a5a4fd35da8c263a10a94641359
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CameraController
   platform: 5
   scenePathNames:
   - Assets/Scenes/Scene.unity
-  playerPath: D:/repos/SCADA-Unity3D/App/SCADA.Tomato.Plantations.exe
+  playerPath: C:/Users/marta/Desktop/repos/SCADA.Tomato.Plantations/SCADA.Tomato.Plantations/SCADA.Tomato.Plantations.exe
