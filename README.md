@@ -5,7 +5,7 @@ SCADA project overseeing tomato plantations (Unity 3D)
 <img align="center" src="https://github.com/mkwiatkowska003/SCADA_inUnity3D/blob/master/ImagesExamples/plantationAView.PNG"/>
 
 # Run 
-To run the application, go to the <i>App</i> folder and double click at <i><SCADA.Tomato.Plantations</i>. 
+To run the application, go to the <i>App</i> folder and double click at <i>SCADA.Tomato.Plantations</i>. 
   
 # Run in Unity Editor
 
