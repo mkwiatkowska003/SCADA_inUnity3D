@@ -9,5 +9,5 @@ To run the application, go to the <i>App</i> folder and double click at <i>SCADA
   
 # Run in Unity Editor
 
-To run the project in Unity Editor, open the <i>Unity3d</i> engine, then click "add" button for adding a project from a disk, go to the <i>...\SCADA.Tomato.Plantations</i> folder and accept by pressing "OK".
+To run the project in Unity Editor, open the <i>Unity3d</i> engine, then click "add" button for adding a project, go to the <i>...\SCADA.Tomato.Plantations</i> folder and accept it by pressing "OK".
 
